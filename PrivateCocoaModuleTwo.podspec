@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'PrivateCocoaModuleTwo'
   s.version          = '0.1.0'
-  s.summary          = 'PrivateCocoaModuleTwo' 
+  s.summary          = '这里用中文' 
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-   PrivateCocoaModuleTwoPrivateCocoaModuleTwoPrivateCocoaModuleTwo.
+   这里用中文这里用中文这里用中文这里用中文这里用中文这里用中文这里用中文这里用中文.
                        DESC
 
   s.homepage         = 'https://github.com/ArvinHD/PrivateCocoaModuleTwo'
