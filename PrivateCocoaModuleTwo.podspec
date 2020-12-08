@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'PrivateCocoaModuleTwo'
-  s.version          = '0.2.0'
+  s.version          = '0.3.0'
   s.summary          = '这里用中文' 
 
 # This description is used to generate tags and improve search results.
